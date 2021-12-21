@@ -41,7 +41,7 @@
 
 - v-leave-to: 2.1.8版及以上 定义离开过渡的结束状态。在离开过渡被触发之后下一帧生效 (与此同时 v-leave 被删除)，在过渡/动画完成之后移除。
 
-![文件目录](../assets/images/transition.png)
+![文件目录](../_images/transition.png)
 
 > [!WARNING]对于这些在过渡中切换的类名来说，如果你使用一个没有名字的 &lt;transition&gt;，则 v- 是这些类名的默认前缀。如果你使用了 &lt;transitionname="my-transition"&gt;，那么 v-enter 会替换为 my-transition-enter。v-enter-active 和 v-leave-active 可以控制进入/离开过渡的不同的缓和曲线
 

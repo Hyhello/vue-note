@@ -6,7 +6,7 @@
 
 #### EversVue 目录结构
 
-![文件目录](../assets/images/struture.png)
+![文件目录](../_images/struture.png)
 
 #### 基础
 

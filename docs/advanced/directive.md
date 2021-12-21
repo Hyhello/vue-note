@@ -17,11 +17,11 @@ Vue自带的指令很多，v-for | v-if | v-show...
 
 **钩子函数详细参数：**
 
-![演示](../assets/images/directive.png)
+![演示](../_images/directive.png)
 
 便于理解的小案例，戳一戳
 :point_right:
-[**此处**](https://github.com/Hyhello/vue-note/blob/master/assets/example/back.js)，了解下
+[**此处**](https://github.com/Hyhello/vue-note/blob/master/example/back.js)，了解下
 
 > [!WARNING]
 > 指令的命名采用小驼峰式，如: aaaBbb -> 调用v-aaa-bbb

@@ -12,4 +12,4 @@
 
 #### 为什么用它及使用场景
 
-:point_right:**[示例](https://github.com/Hyhello/vue-note/blob/master/assets/example/vBusy.jsx)**
+:point_right:**[示例](https://github.com/Hyhello/vue-note/blob/master/example/vBusy.jsx)**

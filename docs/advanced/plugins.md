@@ -34,4 +34,4 @@
 
     戳一戳
     :point_right:
-    [**查看**](https://github.com/Hyhello/vue-note/blob/master/assets/example/indicator.vue)
+    [**查看**](https://github.com/Hyhello/vue-note/blob/master/example/indicator.vue)
