@@ -123,7 +123,7 @@ RESULT:
 
 结果：
 
-![演示](../../assets/images/for.gif)
+![演示](../assets/images/for.gif)
 
 ----
 

@@ -301,4 +301,4 @@ scopedSlots: {
 }
 ```
 
-如有不懂，可点击[**此处**](/assets/example/render.js)查看一个简单的栗子，了解下。
+如有不懂，可点击[**此处**](../assets/example/render.js)查看一个简单的栗子，了解下。

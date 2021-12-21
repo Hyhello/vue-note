@@ -34,4 +34,4 @@
 
     戳一戳
     :point_right:
-    [**查看**](/assets/example/indicator.vue)
+    [**查看**](../assets/example/indicator.vue)
