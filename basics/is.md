@@ -25,11 +25,11 @@
 
 直接上代码：
 
-```
-    // 固定
-    <div is="my-component"></div>  ===>  <my-component></my-component>
+``` vuejs
+// 固定
+<div is="my-component"></div>  ===>  <my-component></my-component>
 
-    // 动态
-    <div :is="component-name"></div>  ===>  <dynamic-component></dynamic-component>
+// 动态
+<div :is="component-name"></div>  ===>  <dynamic-component></dynamic-component>
 
 ```

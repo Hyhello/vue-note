@@ -6,7 +6,7 @@
 
 ```javascript
 
-    <input v-model="currentValue"/>
+<input v-model="currentValue"/>
 
 ```
 
@@ -14,11 +14,11 @@
 
 ```javascript
 
-    父：
-        <custom-component v-model="modelValue"></custom-component>
+父：
+    <custom-component v-model="modelValue"></custom-component>
 
-    子（部分代码）：
-        ...
-        this.$emit('input', [value]);
-        ...
+子（部分代码）：
+    ...
+    this.$emit('input', [value]);
+    ...
 ```

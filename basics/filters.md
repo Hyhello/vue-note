@@ -58,5 +58,5 @@ filters: {
 实例里面调用：
 
 ``` javascript
-    vm.$options.filters[name]();
+vm.$options.filters[name]();
 ```

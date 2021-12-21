@@ -21,7 +21,7 @@ Vue自带的指令很多，v-for | v-if | v-show...
 
 便于理解的小案例，戳一戳
 :point_right:
-[**此处**](/assets/example/back.js)，了解下
+[**此处**](https://github.com/Hyhello/vue-note/blob/master/assets/example/back.js)，了解下
 
 > [!WARNING]
 > 指令的命名采用小驼峰式，如: aaaBbb -> 调用v-aaa-bbb

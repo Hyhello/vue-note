@@ -9,17 +9,17 @@
 
 ``` javascript
 
-    const mixins = {
-        data () {
-            return {
+const mixins = {
+    data () {
+        return {
 
-            };
-        }
-    };
+        };
+    }
+};
 
-    export default {
-        mixins: [ mixins ]      // 此处引入上面的混合类 相当于extend了
-    };
+export default {
+    mixins: [ mixins ]      // 此处引入上面的混合类 相当于extend了
+};
 ```
 
 > [!WARNING]
