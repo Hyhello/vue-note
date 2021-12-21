@@ -9,6 +9,6 @@
 
 本人还处于Vuejs的学习阶段，可能存在理解错误的地方，还请大家指正，一起进步。
 
-如果觉得不错可以微信打赏哟~ -_-
+如果觉得不错可以微信打赏哟~ <image src="./_images/cracker.svg" />
 
-<image src="./_images/wechat.jpg" width="200px" height="200px"/>
+<image src="./_images/wechat.jpg" width="350px" height="350px" />
